@@ -1,0 +1,14 @@
+{
+	"name": "Habit Control",
+	"short_name": "habit-control",
+	"start_url": ".",
+	"display": "standalone",
+	"background_color": "#fff",
+	"description": "A simply habit control app.",
+	"icons": [{
+		"src": "src/images/icons/app-icon-48x48.png",
+		"sizes": "48x48",
+		"type": "image/png"
+	}]
+
+}

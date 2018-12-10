@@ -1,0 +1,17 @@
+{
+  "name": "habit-control",
+  "version": "1.0.0",
+  "description": "Best app to control habits",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server -c-1"
+  },
+  "keywords": [
+
+  ],
+  "author": "Roberto Nunez",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^0.10.0"
+  }
+}
